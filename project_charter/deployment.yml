@@ -1,0 +1,23 @@
+kind: Deployment
+appVersion: apps/v1
+metadata:
+  namespace: default
+  name: my-app
+  labels:
+    app: my-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+        - name: my-app-container
+          image: my-app-image:latest
+          ports:
+            - containerPort: 80
+

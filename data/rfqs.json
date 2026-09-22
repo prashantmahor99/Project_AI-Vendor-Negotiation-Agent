@@ -1,0 +1,170 @@
+[
+    {
+        "rfq_id": "RFQ-20260626004319",
+        "product": "monitor",
+        "quantity": "3",
+        "specification": "ndjvne\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260626010206",
+        "product": "monitot",
+        "quantity": "3",
+        "specification": "\n",
+        "budget": "1",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260626011155",
+        "product": "screen",
+        "quantity": "1",
+        "specification": "dncjw\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627014422",
+        "product": "mobile phone",
+        "quantity": "1",
+        "specification": "16gb ram\n",
+        "budget": "25000",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627225356",
+        "product": "water bottles",
+        "quantity": "2",
+        "specification": "\n",
+        "budget": "10",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627225403",
+        "product": "water bottles",
+        "quantity": "2",
+        "specification": "\n",
+        "budget": "10",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627231535",
+        "product": "water bottles",
+        "quantity": "2",
+        "specification": "\n",
+        "budget": "10",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627231645",
+        "product": "water bottles",
+        "quantity": "2",
+        "specification": "\n",
+        "budget": "10",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260627233759",
+        "product": "pens ",
+        "quantity": "2",
+        "specification": "\n",
+        "budget": "50",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260628184940",
+        "product": "iphone",
+        "quantity": "1",
+        "specification": "1 tb , silver color\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260628193710",
+        "product": "iphone 16",
+        "quantity": "1",
+        "specification": "512\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260628200232",
+        "product": "iphone 16 pro",
+        "quantity": "1",
+        "specification": "512 gb\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260628204902",
+        "product": "iphone 16 pro",
+        "quantity": "1",
+        "specification": "512 gb\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260628210317",
+        "product": "iphone 17",
+        "quantity": "2",
+        "specification": "512 GB 8 Gb RAM\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260629211402",
+        "product": "iphone 17",
+        "quantity": "1",
+        "specification": "512gb\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260629221420",
+        "product": "iphone 18",
+        "quantity": "1",
+        "specification": "1 tb \n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260629235915",
+        "product": "",
+        "quantity": "",
+        "specification": "\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260701112520",
+        "product": "iphone 16",
+        "quantity": "1",
+        "specification": "\n",
+        "budget": "87000",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260701112847",
+        "product": "elitebook",
+        "quantity": "1",
+        "specification": "\n",
+        "budget": "67000",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260702102153",
+        "product": "ram",
+        "quantity": "1",
+        "specification": "\n",
+        "budget": "",
+        "status": "OPEN"
+    },
+    {
+        "rfq_id": "RFQ-20260702185737",
+        "product": "laptop",
+        "quantity": "50",
+        "specification": "iocjioedhvcuireh\n",
+        "budget": "100000",
+        "status": "OPEN"
+    }
+]
